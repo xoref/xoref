@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="30" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="81" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -725,7 +725,13 @@
         
           <ul class="habits">
             
+              <li>Use spaces for indents</li>
             
+            
+              <li>Mostly push code around 10:00</li>
+            
+            
+              <li>Mostly active on tuesday</li>
             
           </ul>
         
